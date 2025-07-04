@@ -185,4 +185,4 @@ Desafios:
 ---
 ## ✍️ Autor
 
-**Lucas Agostinho Wszoek** 🚀
+**Lucas Agostinho Wszoek** 
