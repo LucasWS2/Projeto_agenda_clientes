@@ -183,7 +183,6 @@ Desafios:
 🧑‍🏫 Dúvidas? Pergunte ao instrutor!
 
 ---
-
 ## ✍️ Autor
 
 **Lucas Agostinho Wszoek** 🚀
